@@ -1,6 +1,7 @@
 # Wheel_Of_Fortune_Project
 
 The game of Wheel Of Fortune using C++
+Main objective of this program is to learn using pointers and functions.
 
 1. The program will ask the user to create a new game. 
 2. If there is no file to read from, then the program will ask to create a file to read the word/phrase. 
